@@ -14,3 +14,6 @@ body{
   background-color: rgba(254, 254, 255, 0.808);
   padding: 20px;
 }
+li{
+  list-style: none;
+}
